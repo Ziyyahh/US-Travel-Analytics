@@ -18,4 +18,4 @@ Analysis of 31 years of US international outbound travel data, exploring passeng
 - Microsoft Excel - data cleaning, pivot tables, and dashboard visualisation
 
 ## Dashboard
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard_preview.JPG)
